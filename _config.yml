@@ -1,4 +1,3 @@
 theme: jekyll-theme-hacker
-site:
-  title: "Test"
-  description: "2019 Youth Conference"
+title: "Test"
+description: "2019 Youth Conference"
