@@ -6,5 +6,6 @@ permalink: /registration/
 Register here!
 
 <form>
-  <input type="text">
+  <input type="text" name="firstName">
+  <button>Submit</button>
  </form>
