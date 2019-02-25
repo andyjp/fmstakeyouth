@@ -3,3 +3,7 @@ title: FM Stake Youth
 description: Site for the youth of the Church of Jesus Christ of Latter-day Saints in the Fort Mill, South Carolina Stake
 baseurl: ""
 locale: "en"
+
+author:
+  name: Andy Parry
+  url: https://github.com/andyjp
