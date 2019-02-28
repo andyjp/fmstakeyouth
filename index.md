@@ -18,7 +18,7 @@ This page is a resource for activity ideas. If you have any activities or resour
 * [Scouting](#scouting)
 * [Service](#service)
 * [Sports](#sports)
-* [Spiritual Strength](#spirtual-strength)
+* [Spiritual Strength](#spiritual-strength)
 * [Stake and Multistake Activities](#stake-and-multistake-activities)
 * [Temples and Family History](#temples-and-family-history)
 
@@ -51,5 +51,5 @@ Plan a ward or youth talent show. Have the youth participate in planning and org
 ## Service
 ## Sports
 ## Spiritual Strength
-## Stake and Multistate Activities
+## Stake and Multistake Activities
 ## Temples and Family History
