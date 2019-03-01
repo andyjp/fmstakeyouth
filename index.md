@@ -27,7 +27,7 @@ This page is a resource for activity ideas. If you have any activities or resour
 ---
 
 [Church's Youth Activites Page](https://www.lds.org/youth/activities?lang=eng){:target="_blank"}
-- Great Idea generation for Youth Activities.  If you haven’t been to this site, you have missed out.
+- Great idea generation for Youth Activities.  If you haven’t been to this site, you have missed out.
 
 [Mountain Project](https://www.mountainproject.com/){:target="_blank"}
  - It is a great resource for those who love to climb.  It shows locations throughout the country where you can get out and have fun climbing.  It also shows local sites as well.
