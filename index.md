@@ -39,17 +39,58 @@ This page is a resource for activity ideas. If you have any activities or resour
 ---
 
 ## Art, Music, and Dance
+
+### Marshmallow Challenge
+Construct a tower as high as possible using only spaghetti and masking tape. The marshmallow must be placed on the top of the tower. The tallest tower still standing unassisted wins. More details [here](/assets/The%20Marshmallow%20Challenge%20Instructions.pdf).
+
 ### Talent Show
 Plan a ward or youth talent show. Have the youth participate in planning and organizing the event. Include a variety of talents, and invite people to participate individually or in groups. Discuss why Heavenly Father gives us talents and what He wants us to do with them.
+
 ## Camping
+
 ## Communications and Relationships
+
 ## Future Roles
+
 ## Missionary Work
+
 ## Outdoors
+
+### Rappelling and Rock Climbing
+
+Check out [Crowders Mountain](https://www.ncparks.gov/crowders-mountain-state-park). Those in the State with experience:  Shawn Coombs (York Ward), Joseph Johansen (New Port Ward), Rusty Graph (Rock Hill Ward).
+
+[Indoor Rock Climbing](https://www.innerpeaks.com/)
+
+### Catawba river trip
+Take a canoe, kayak, or tube down the Catawba River. Here are different access points to the river:
+
+| Name | Location | Hours | Access |
+|-------|---------|--------|---|
+| Fort Mill Dam |2541 New Gray Rock Rd, Fort Mill, SC 29708|24 hours (Public)| boat ramp |
+| Riverwalk | Herrons Ferry Road, Rock Hill, SC 29730 | 7:00 a.m. to 8:00 p.m. (Public)|canoes/kayaks/tubes|
+| River Park | 1782 Quality Cir, Rock Hill, SC 29730 | 8:00 a.m. to 8:00 p.m. (Public) | canoes/kayaks/tubes
+| Church Farm | | By reservation only. (Church of Jesus Christ of Latter-day Saint, Farm Coordinator)| canoes/kayaks/tubes|
+| Catawba Nation Takeout | Rock Hill, SC | (Contact a member of the Nation)||
+|[Landsford Canal State Park](https://southcarolinaparks.com/landsford-canal) | Park Dr, Catawba, SC 29704 | 6:00 a.m. to 9:00 p.m. (Public) | canoes/kayaks/tubes  
+
 ## Physical Health
+
 ## Scouting
+
 ## Service
+
 ## Sports
+
+### Slip 'n Slide Kickball
+
+[Check it out!](https://www.youtube.com/watch?v=sQUZDRN-UNU)
+
 ## Spiritual Strength
+
 ## Stake and Multistake Activities
+
 ## Temples and Family History
+
+### Attend the temple
+[Columbia South Carolina Temple](https://www.lds.org/temples/details/columbia-south-carolina-temple?lang=eng)
