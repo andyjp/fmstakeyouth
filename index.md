@@ -84,7 +84,9 @@ Take a canoe, kayak, or tube down the Catawba River. Here are different access p
 
 ### Slip 'n Slide Kickball
 
-[Check it out!](https://www.youtube.com/watch?v=sQUZDRN-UNU)
+[Check out a video of slip 'n slide kickball!](https://www.youtube.com/watch?v=sQUZDRN-UNU)
+
+### Glow in the dark volleyball
 
 ## Spiritual Strength
 
